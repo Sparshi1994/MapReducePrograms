@@ -1,0 +1,4 @@
+books	1	10
+java	2	100
+hadoop	3	1000
+python	4	500

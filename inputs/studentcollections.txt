@@ -1,0 +1,5 @@
+arun#math:10,phy:20,chem:50#math,phy,chem#500001,2001
+anil#math:13,phy:30,chem:60#math,phy,chem#500001,2002
+rahul#math:30,phy:22,chem:30#math,phy,chem#500002,2002
+venkat#math:40,phy:23,chem:60#math,phy,chem#500003,2001
+kumar#math:50,phy:20,chem:40#math,phy,chem#500002,2002

@@ -1,0 +1,8 @@
+01	Marketing
+02	Finance
+03	HumanResources
+04	Development
+05	Sales
+06	Research
+07	CustomerService
+08	QualityManagement

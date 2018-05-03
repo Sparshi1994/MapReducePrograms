@@ -1,0 +1,11 @@
+101,Veera,30000,USA,M,11
+102,Karthik,40000,Chennai,M,12
+103,Niranjan,50000,Bangalore,M,13
+104,Naveen,20000,Hyderabad,M,14
+105,Suma,70000,California,F,12
+106,Ayesha,30000,Portland,F,13
+107,Bharadwaj,20000,Delhi,M,12
+108,Afreen,50000,Mumbai,F,13
+109,Haja,80000,Chennai,M,16
+110,Sahul,70000,Singapore,M,14
+111,Rakesh,50000,Hyderabad,M,13

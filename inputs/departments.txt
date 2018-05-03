@@ -1,0 +1,8 @@
+Dept01	Marketing
+Dept02	Finance
+Dept03	HumanResources
+Dept04	Development
+Dept05	Sales
+Dept06	Research
+Dept07	CustomerService
+Dept08	QualityManagement

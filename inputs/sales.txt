@@ -1,0 +1,9 @@
+books	2010	10
+books	2012	20
+java	2013	50
+java	2012	13
+java	2011	20
+hadoop	2010	10
+hadoop	2013	40
+scala	2014	50
+ruby	2013	60
